@@ -11,7 +11,7 @@ Happyflow only. No error handling.
 
 ```zsh
 # Clone repo
-git clone
+git clone https://github.com/abbashassanali/trailer-viewer.git
 
 # Install dependencies
 npm install
