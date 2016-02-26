@@ -21,16 +21,16 @@ npm start
 ```
 ## Some of the frameworks used in this project
 
-# Babel
+### Babel
 * Mainly for being able to import JSX into Node. Did not used the latest version since i have played around a bit with version 4 and version 6 is quite different. Ex. Babel is replaced with babel-cli.
 
-# React
+### React
 * Fits really good with Node.JS for server rendering of markup (and because I wanted to play around with it).
 
-# Fetch
+### Fetch
 * Get content from other endpoints. Used this instead of "http" which I normally use in projects. Really liked fetch. Simple and promise based.
 
-# ServeStatic
+### ServeStatic
 * Basic node plugins used for serving static content such as images and stylesheets.
 
 
