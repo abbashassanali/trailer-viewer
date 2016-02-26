@@ -1,0 +1,23 @@
+{
+  "name": "trailer-viewer",
+  "version": "0.1.0",
+  "description": "View trailers",
+  "main": "server.js",
+  "scripts": {
+    "start": "babel-node server.js"
+  },
+  "author": "Abbas Hassanali",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^4.7.13",
+    "express": "^4.13.4",
+    "node-fetch": "^1.3.3",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "serve-static": "^1.10.2",
+    "xml2json": "^0.9.0",
+    "babel-core": "^4.7.16",
+    "babel-loader": "^4.2.0",
+    "lodash": "^4.5.1"
+  }
+}
